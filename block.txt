@@ -59,3 +59,14 @@
 .cloudflareinsights.com
 .tsyndicate.com
 .co.th
+.doubleclick.net
+.bullionglidingscuttle.com
+.chatango.com
+.googletagmanager.com
+.bncloudfl.com
+.6v41p4bsq.com
+.wkmorvzawmayz.top
+
+#
+.adobe.io
+.adobestats.io
